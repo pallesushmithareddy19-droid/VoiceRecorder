@@ -1,5 +1,5 @@
 AZURE_OPENAI_API_KEY=DEMO_AZURE_OPENAI_API_KEY
-# Replace the endpoint with your Azure OpenAI resource endpoint when configuring locally
+# Replace the endpoint with Azure OpenAI resource endpoint when configuring locally
 AZURE_OPENAI_ENDPOINT=https://your-azure-openai-endpoint.cognitiveservices.azure.com/
 AZURE_DEPLOYMENT_TRANSCRIBE=demo-deployment-transcribe
 AZURE_API_VERSION=2025-03-01-preview
