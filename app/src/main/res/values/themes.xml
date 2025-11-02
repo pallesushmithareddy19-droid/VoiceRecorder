@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.TwinMind" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/tm_primary</item>
+        <item name="android:statusBarColor">@color/tm_background</item>
+        <item name="android:navigationBarColor">@color/tm_background</item>
+    </style>
+</resources>

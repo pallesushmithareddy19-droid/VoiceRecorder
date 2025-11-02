@@ -1,0 +1,8 @@
+<resources>
+    <color name="tm_primary">#1B2559</color>
+    <color name="tm_on_primary">#FFFFFF</color>
+    <color name="tm_background">#0E142F</color>
+    <color name="tm_surface">#151C3D</color>
+    <color name="tm_on_surface">#E6E8F0</color>
+    <color name="tm_accent">#A7E1F8</color>
+</resources>

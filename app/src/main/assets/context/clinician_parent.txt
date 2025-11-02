@@ -1,0 +1,12 @@
+Clinical interview with parent — quick suggestions:
+- Ask onset and duration of symptoms (duration, onset, timeline).
+- Clarify fever (fever): measured temperature, how high, how long.
+- Pain assessment (pain): location, severity (0-10), quality, triggers.
+- Allergies (allergy): known drug/food allergies, reactions.
+- Medications (medication): current meds, doses, last taken time.
+- Sleep (sleep): hours, quality, night awakenings.
+- Diet (diet): appetite, hydration, recent changes.
+- School (school): attendance, activity tolerance, recent stressors.
+- Vaccinations (vaccination): up to date? recent shots?
+- Travel/injury (travel, injury): recent trips or injuries.
+- Red flags: lethargy, dehydration signs, breathing difficulty.
